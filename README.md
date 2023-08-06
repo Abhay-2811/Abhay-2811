@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Upadhyay</h1>
 <h3 align="center">Passionate Full Stack Blockchain Developer. Currently interested in Zero-Knowledge Proofs and its practical applications.</h3>
+<h4 align="center">Always open for collaborating on fun projects. Connect to collaborate ✌️</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-2811&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-2811" /> </p>
 
