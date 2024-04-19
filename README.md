@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-2811&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-2811" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abhayup09019543" target="blank"><img src="https://img.shields.io/twitter/follow/abhayup09019543?logo=twitter&style=for-the-badge" alt="abhayup09019543" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AbHaY_2803" target="blank"><img src="https://img.shields.io/twitter/follow/abhayup09019543?logo=twitter&style=for-the-badge" alt="AbHaY_2803" /></a> </p>
 
 - 🌱 I’m currently learning **ZK-Proofs, cryptography**
 
