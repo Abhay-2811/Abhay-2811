@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abhayup09019543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhayup09019543" height="30" width="40" /></a>
+<a href="[AbHaY_28033](https://twitter.com/AbHaY_2803)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhayup09019543" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/au2811/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/au2811/" height="30" width="40" /></a>
 </p>
 
